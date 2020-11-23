@@ -6,7 +6,7 @@ title: Home
 
 {%
   include figure.html
-  image="images/bacteria.jpg"
+  image="icons/share-thumbnail.jpg"
   caption="DrylandAlgae Laboratory at New Mexico State University"
   width="100%"
 %}
