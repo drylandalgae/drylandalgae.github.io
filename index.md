@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# <i class="fas fa-flask"></i>Home
+# <i class="fas fa-flask"></i>Welcome to DrylandAlgae Lab @NMSU
 
 {%
   include figure.html
