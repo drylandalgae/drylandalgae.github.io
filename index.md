@@ -1,5 +1,5 @@
 ---
-title: Home
+title: DrylandAlgae Home
 ---
 
 # <i class="fas fa-flask"></i>Dryland Algae Lab
